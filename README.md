@@ -5,12 +5,6 @@ Ported from https://github.com/MiSTer-devel/ZXNext_MISTer according from Somhi s
 Follows original readme file.
 
 
-# Alternative ZX Next for Sockit
-
-Ported from https://github.com/Kyp069/zx48-MiSTer according from Somhi sockit template.
-
-Follows original readme file.
-
 # [ZX Spectrum Next](https://www.specnext.com/) for MiSTer
 
 Port of original [ZX Spectrum Next core](https://gitlab.com/SpectrumNext/ZX_Spectrum_Next_FPGA) developed by Alvin Albrecht, Victor Trucco and Fabio Belavenuto.
