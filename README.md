@@ -1,4 +1,4 @@
-# Alternative ZX Next for Sockit
+# ZX Spectrum Next for Sockit
 
 Ported from https://github.com/MiSTer-devel/ZXNext_MISTer according from Somhi sockit template.
 
